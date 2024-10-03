@@ -6,7 +6,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning and Data Science<br>👯 I’m looking to collaborate on Machine Learning <br>🤝 I’m also looking for someone to collaborate on YouTube<br>🌱 I’m currently learning Data Science, Machine Learning and Artificial Intelligence 
+🔭 I’m currently working on Artificial Intelligence, machine learning and data science<br>I'm currently 🧭 exploring new technologies and looking for professionals to collaborate on Machine Learning Big Projects<br>🤝 I’m also looking to collaborate on YouTube 
 
 
 
