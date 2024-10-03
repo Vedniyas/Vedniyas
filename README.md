@@ -1,12 +1,12 @@
 
-![MasterHead](dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif)
+![MasterHead](https://github.com/Vedniyas/Vedniyas/blob/main/pic%20ai.png)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Uditya+Narayan+Tiwari!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vedniyas+Vyas+!;" />
 </h1>
 
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning and Data Science<br>👯 I’m looking to collaborate on Machine Learning <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Data Science, Machine Learning, Deep Learning and Artificial Intelligence 
+🔭 I’m currently working on Machine Learning and Data Science<br>👯 I’m looking to collaborate on Machine Learning <br>🤝 I’m also looking for someone to collaborate on YouTube<br>🌱 I’m currently learning Data Science, Machine Learning and Artificial Intelligence 
 
 
 
